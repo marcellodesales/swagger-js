@@ -1,5 +1,5 @@
 {
-  "name": "swagger-client",
+  "name": "swagger-client-intuit",
   "author": "Tony Tam <fehguy@gmail.com>",
   "contributors": [
     {
@@ -8,7 +8,7 @@
     }
   ],
   "description": "swagger-client is a javascript client for use with swaggering APIs.",
-  "version": "2.1.7-intuit-0",
+  "version": "2.1.7",
   "homepage": "http://swagger.io",
   "repository": {
     "type": "git",
