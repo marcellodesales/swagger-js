@@ -1,6 +1,6 @@
 {
-  "name": "swagger-client-intuit",
-  "author": "Tony Tam <fehguy@gmail.com>",
+  "name": "sp-swagger-client",
+  "author": "Marcello_deSales@intuit.com",
   "contributors": [
     {
       "name": "Jeremy Whitlock",
@@ -12,7 +12,7 @@
   "homepage": "http://swagger.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/swagger-api/swagger-js.git"
+    "url": "https://github.intuit.com/servicesplatform-node/sp-swagger-client.git"
   },
   "main": "index.js",
   "scripts": {
@@ -70,6 +70,6 @@
   },
   "license": "Apache-2.0",
   "publishConfig": {
-    "registry": "http://sds-repo-int.qdc.intuit.com:8082/nexus/content/repositories/npm-internal/"
+    "registry": "https://registry-e2e.npmjs.intuit.net"
   }
 }
